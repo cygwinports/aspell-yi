@@ -1,0 +1,2 @@
+ASPELL_COMPAT=6
+inherit aspell-dict
